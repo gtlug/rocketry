@@ -18,3 +18,15 @@ The purpose of this project is to research, design, and build a telemetry packag
 
 ## Plan
 The current plan is to integrate discrete telemetry hardware into a 3D-printed nose-cone.
+
+The chosen telemetry hardware hypothetically should be capable of high acceleration, and high altitude flights.
+
+In this first iteration, we are targeting off-the-shelf entry-level [Estes®-style model rockets](https://estesrockets.com/), 
+using standard solid chemical propellant engines with modest thrust.
+
+## Parts
+For this project, we've acquired the following resouces:
+| Part                                      | Links | Description                  |
+|-------------------------------------------|-------|------------------------------|
+| Quest Egg Lofter Courier Model Rocket Kit | [Store](https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/)  [Specifications](https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim) | A base model rocket kit designed to loft loads in its nose-cone (an egg) |
+| LILYGO® T-Beam SUPREME (UBLOX, 915MHz) | [Store](https://lilygo.cc/products/t-beam-supreme?variant=44907412193461) [Firmware](https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII) | A telemetry module featuring multiple radio protocols, a GPS module capable of high acceleration, a wifi adapter and web interface for management |
