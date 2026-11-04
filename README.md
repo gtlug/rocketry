@@ -1,6 +1,6 @@
 # GTLUG Model Rocketry Project
 ## Introduction
-At [GTLUG's](https://gtlug.github.io/) July 2024 monthly meeting, we started work on a model rocketry group project.
+At [GTLUG's][gtlug-url] July 2024 monthly meeting, we started work on a model rocketry group project.
 
 We've set out to solve a simple problem: How do we launch a model rocket without losing it?
 
@@ -35,10 +35,27 @@ We **WILL NOT** pursue articulating flight control surfaces.  This is because su
 
 ## Hardware
 For this project, we've chosen the following hardware:
-| Part                                      | Links | Description                  |
-|-------------------------------------------|-------|------------------------------|
-| Quest Egg Lofter Courier Model Rocket Kit | [Store](https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/)  [Specs](https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim) | A base model rocket kit designed to loft loads in its nose-cone (an egg) |
-| LILYGO® T-Beam SUPREME (UBLOX, 915MHz) | [Store](https://lilygo.cc/products/t-beam-supreme?variant=44907412193461) [Firmware](https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII) | A telemetry module featuring multiple radio protocols, a GPS module capable of high acceleration, a wifi adapter and web interface for management |
-| RTL-SDR | [Store](https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html) [Specs](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf) | A low-cost Software Defined Radio (SDR) USB dongle.  With a frequency range: 500 kHz – 1766 MHz and bandwidth of 2.4 MHz. |
-| HackRF | [Store](https://www.amazon.com/dp/B0BKH7Z2NJ) | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
-| 900 MHz 12dBi Yagi Antenna | [Store](https://www.data-alliance.net/900-mhz-12dbi-yagi-antenna-w-cable-to-n-female/) | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
+| Part                                      | Links                                                   | Description |
+|-------------------------------------------|---------------------------------------------------------|-------------|
+| Quest Egg Lofter Courier Model Rocket Kit | [Store][rocket-store-url]<br/>[Specs][rocket-specs-url] | A base model rocket kit designed to loft loads in its nose-cone (an egg) |
+| LILYGO® T-Beam SUPREME (UBLOX, 915MHz)    | [Store][tbeam-store-url]<br/>[Firmware][softrf-url]     | A telemetry module featuring multiple radio protocols, a GPS module capable of high acceleration, a wifi adapter and web interface for management |
+| RTL-SDR                                   | [Store][rtl-sdr-store-url]<br/>[Specs][rtl-sdr-specs-url] | A low-cost Software Defined Radio (SDR) USB dongle.  With a frequency range: 500 kHz – 1766 MHz and bandwidth of 2.4 MHz. |
+| HackRF                                    | [Store][hackrf-store-url]                               | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
+| 900 MHz 12dBi Yagi Antenna                | [Store][yagi-uda-store-url]                             | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
+
+
+## Software
+### SoftRF Firmware
+The T-Beam SUPREME comes stock with LILYGO's [SoftRF Firmware][softrf-url].
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[gtlug-url]: https://gtlug.github.com/
+[rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
+[rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
+[tbeam-store-url]: ttps://lilygo.cc/products/t-beam-supreme?variant=44907412193461
+[softrf-url]: https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII
+[rtl-sdr-store-url]: https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html
+[rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
+[hackrf-store-url]: https://www.amazon.com/dp/B0BKH7Z2NJ
+[yagi-uda-store-url]: https://www.data-alliance.net/900-mhz-12dbi-yagi-antenna-w-cable-to-n-female/
