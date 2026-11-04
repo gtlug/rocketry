@@ -24,6 +24,12 @@ The chosen telemetry hardware hypothetically should be capable of high accelerat
 In this first iteration, we are targeting off-the-shelf entry-level [Estes®-style model rockets](https://estesrockets.com/), 
 using standard solid chemical propellant engines with modest thrust.
 
+We are also working on developing a [GNU Radio](https://www.gnuradio.org/) package for decoding telemetry data, and plotting the data in mapping software (i.e. Google Earth).
+
+In future iterations, we will may target larger rocket platforms, adding LEDs, and auditory buzzers.
+
+We **WILL NOT** pursue articulating flight control surfaces.  This is because such features would constitute missile construction, and is subject to regulation.
+
 ## Hardware
 For this project, we've chosen the following hardware:
 | Part                                      | Links | Description                  |
@@ -32,3 +38,4 @@ For this project, we've chosen the following hardware:
 | LILYGO® T-Beam SUPREME (UBLOX, 915MHz) | [Store](https://lilygo.cc/products/t-beam-supreme?variant=44907412193461) [Firmware](https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII) | A telemetry module featuring multiple radio protocols, a GPS module capable of high acceleration, a wifi adapter and web interface for management |
 | RTL-SDR | [Store](https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html) [Specs](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf) | A low-cost Software Defined Radio (SDR) USB dongle.  With a frequency range: 500 kHz – 1766 MHz and bandwidth of 2.4 MHz. |
 | HackRF | [Store](https://www.amazon.com/dp/B0BKH7Z2NJ) | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
+| 900 MHz 12dBi Yagi Antenna | [Store](https://www.data-alliance.net/900-mhz-12dbi-yagi-antenna-w-cable-to-n-female/) | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
