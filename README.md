@@ -53,7 +53,7 @@ The T-Beam SUPREME comes stock with LILYGO's [SoftRF Firmware][softrf-url].
 [gtlug-url]: https://gtlug.github.com/
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
 [rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
-[tbeam-store-url]: ttps://lilygo.cc/products/t-beam-supreme?variant=44907412193461
+[tbeam-store-url]: https://lilygo.cc/products/t-beam-supreme?variant=44907412193461
 [softrf-url]: https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII
 [rtl-sdr-store-url]: https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html
 [rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
