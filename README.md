@@ -45,7 +45,7 @@ For this project, we've chosen the following hardware:
 | 900 MHz 12dBi Yagi Antenna                | [Store][yagi-uda-store-url]                             | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
 
 ### LILYGO® T-Beam SUPREME
-This telemetry module has a very compact design.  It is the main component in [LILYGO®'s SoftRF Prime MkIII][softrf-url] project (see <a href="#SoftRF">SoftRF section</a>).
+This telemetry module has a very compact design.  It is the main component in [LILYGO®'s SoftRF Prime MkIII][softrf-url] project (see <a href="#softrf-firmware">SoftRF Firmware section</a>).
 
 ### Custom 3D-Printed Nose-Cone
 Using the Courier Model Rocket nose-cone for approximate geometry, while extending the length to fit the telemetry module.  
