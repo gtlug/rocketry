@@ -1,3 +1,5 @@
+<div style="float: right;"><img src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/tux_rocket.png" alt="" style="width: 30%;" align="right" /></div>
+
 # GTLUG Model Rocketry Project
 ## Introduction
 At [GTLUG's][gtlug-url] July 2024 monthly meeting, we started work on a model rocketry group project.
