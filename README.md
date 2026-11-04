@@ -67,6 +67,26 @@ We are using the following [settings][softrf-settings-url]:
 | Stealth      | Enable  |
 | No track     | Enable  |
 
+We chose the Legacy (FLARM Air v7) protocol, because it appeared to be the best documented and included tho most telemetry/vector fields of all the available protocols.
+
+### SDR++
+We've been using [SDR++][sdrpp-url] (and either RTL-SDR or HackRF) to do radio spectrum analysis of telemetry transmission signals.
+
+This tool is useful for visualizing the spectrum in a "waterfall plot" and identifying patterns in signals.  Once signals have been isolated, SDR++ can be used to capture base-band IQ recordings in a WAV file.  These captures have been used for later analysis.
+
+### Telemetry Decoder (GNU Radio + KML/GeoJSON Feed)
+We're targeting [GNU Radio][gnu-radio-url] as a means of telemetry decoding.  This is still in development.
+
+The intended stack is:
+* T-Beam Supreme/SoftRF
+* Transmit on omni-directional 915MHz pigtail antenna
+* Receive on Yagi-Uda directional antenna
+* GNU Radio demodulates and decodes frames
+* Node/TypeScript/Nest web service serves a KML and/or GeoJSON feed
+* Google Earth (or some other mapping software) consumes feed and provides a GUI to user
+
+The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separate repository, see link) using open source Large Language Models (LLMs) like Qwen 3.8, hosted locally using Ollama, and using open source local-first autonomous agents like OpenClaw and Hermes.
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gtlug-url]: https://gtlug.github.com/
@@ -79,3 +99,6 @@ We are using the following [settings][softrf-settings-url]:
 [rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
 [hackrf-store-url]: https://www.amazon.com/dp/B0BKH7Z2NJ
 [yagi-uda-store-url]: https://www.data-alliance.net/900-mhz-12dbi-yagi-antenna-w-cable-to-n-female/
+[sdrpp-url]: https://www.sdrpp.org/
+[gnu-radio-url]: https://www.gnuradio.org/
+[softrf-decoder-url]: https://github.com/NiX0n/softrf-decoder
