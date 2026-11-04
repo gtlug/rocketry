@@ -37,8 +37,8 @@ We **WILL NOT** pursue articulating flight control surfaces.  This is because su
 For this project, we've chosen the following hardware:
 | Part                                      | Links                                                   | Description |
 |-------------------------------------------|---------------------------------------------------------|-------------|
-| Quest Egg Lofter Courier Model Rocket Kit | [Store][rocket-store-url]<br/>[Specs][rocket-specs-url] | A base model rocket kit designed to loft loads in its nose-cone (an egg) |
-| LILYGO® T-Beam SUPREME (UBLOX, 915MHz)    | [Store][tbeam-store-url]<br/>[Firmware][softrf-url]     | A telemetry module featuring multiple radio protocols, a GPS module capable of high acceleration, a wifi adapter and web interface for management |
+| Quest Egg Lofter Courier Model Rocket Kit | [Store][rocket-store-url]<br/>[Specs][rocket-specs-url] | A base model rocket kit designed to loft loads (an egg) in its nose-cone.  We have built two kits. |
+| LILYGO® T-Beam SUPREME (UBLOX, 915MHz)    | [Store][tbeam-store-url]<br/>[Firmware][softrf-url]     | A telemetry module featuring multiple radio protocols, a Ublox M10 GPS/GNSS module capable of high acceleration, an ESP32 with WiFi adapter and web UI for management.  We have purchased two of these for redundancy. |
 | RTL-SDR                                   | [Store][rtl-sdr-store-url]<br/>[Specs][rtl-sdr-specs-url] | A low-cost Software Defined Radio (SDR) USB dongle.  With a frequency range: 500 kHz – 1766 MHz and bandwidth of 2.4 MHz. |
 | HackRF                                    | [Store][hackrf-store-url]                               | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
 | 900 MHz 12dBi Yagi Antenna                | [Store][yagi-uda-store-url]                             | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
@@ -46,7 +46,26 @@ For this project, we've chosen the following hardware:
 
 ## Software
 ### SoftRF Firmware
-The T-Beam SUPREME comes stock with LILYGO's [SoftRF Firmware][softrf-url].
+The telemetry module, T-Beam SUPREME, comes stock with LILYGO®'s open source (GPLv3) [SoftRF firmware][softrf-url].  We have upgraded both T-Beams with the latest compatible release.  All management, including firmware upgrades are done via the built-in web server and simple web UI.
+
+We are using the following [settings][softrf-settings-url]:
+| Configurable | Setting |
+|--------------|---------|
+| Mode         | Normal  |
+| Protocol     | Legacy  |
+| Region       | US/CA (915MHz) |
+| Aircraft Type| Balloon |
+| Alarm Trigger| None    |
+| Tx Power     | Full    |
+| Volume       | Off     |
+| LED ring dir.| CoG Up  |
+| NMEA sentences | All on| 
+| NMEA output  | Off     |
+| GDL90        | Off     |
+| Dump1090     | Off     |
+| Power save   | Disabled|
+| Stealth      | Enable  |
+| No track     | Enable  |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -55,6 +74,7 @@ The T-Beam SUPREME comes stock with LILYGO's [SoftRF Firmware][softrf-url].
 [rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
 [tbeam-store-url]: https://lilygo.cc/products/t-beam-supreme?variant=44907412193461
 [softrf-url]: https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII
+[softrf-settings-url]: https://github.com/lyusupov/SoftRF/wiki/Settings
 [rtl-sdr-store-url]: https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html
 [rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
 [hackrf-store-url]: https://www.amazon.com/dp/B0BKH7Z2NJ
