@@ -7,11 +7,14 @@ We've set out to solve a simple problem: How do we launch a model rocket without
 We've since met several times to discuss various aspects of the project.
 
 As a GTLUG project, it covers a wide variety of common intersecting subjects that we regularly discuss in our meetings in general:
+
 * Physics
-* Radio Engineering
+* Radio Science
 * Open Source Software
 * Electronics
 * 3D Printing
+* Reverse Engineering
+* AI
 
 ## Objective
 The purpose of this project is to research, design, and build a telemetry package capable of launching on a model rocket.
