@@ -15,12 +15,17 @@
 - [ ] 2x T-Beam Supremes
 - [ ] 2x 915MHz omni
 - [ ] 4x 18650 Li-Ion batteries
-- [ ] 2x Nosecones
+- [ ] 2x nose-cones
+- [ ] Wadding
+- [ ] Duct tape
+- [ ] Electrical tape
 - [ ] Yagi-Uda with N connector
 - [ ] N to SMA 4' cable
 - [ ] HackRF + USB cable
-- [ ] Launch Pad
-- [ ] Launch Controller
-- [ ] Launch Controller Batteries
+- [ ] Laptop w/ SDR++
+- [ ] Launch pad
+- [ ] Launch controller
+- [ ] Launch controller batteries
+- [ ] WD-40
 - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
 - [ ] 
