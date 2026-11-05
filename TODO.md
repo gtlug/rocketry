@@ -1,7 +1,8 @@
 # TODO
 - [ ] Charge batteries
 - [ ] Charge Laptop
-- [ ] Upgrade firmware 2nd T-Beam
+- [ ] [Download](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/binaries/ESP32S3/SoftRF/MassStorage) firmeware
+- [ ] [Upgrade](https://github.com/lyusupov/SoftRF/blob/master/software/firmware/binaries/README.md#esp32-s3) firmware 2nd T-Beam
 - [ ] Install new MicroSD in 2nd T-Beam
 - [ ] Determine MicroSD filesystem
 - [ ] Find batteries for launch controller
