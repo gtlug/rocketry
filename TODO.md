@@ -7,7 +7,7 @@
 - [ ] Install new MicroSD in 2nd T-Beam
 - [ ] Determine MicroSD filesystem
 - [ ] Find batteries for launch controller
-- [ ] Spray color fuselages
+- [x] Spray color fuselages
 - [ ] Clear coat finish fuselages
 - [ ] Attach parachutes to shock cord assembly
 
