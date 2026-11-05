@@ -40,7 +40,8 @@ For this project, we've chosen the following hardware:
 | Part                                      | Links                                                   | Description |
 |-------------------------------------------|---------------------------------------------------------|-------------|
 | Quest Egg Lofter Courier Model Rocket Kit | [Store][rocket-store-url]<br/>[Specs][rocket-specs-url] | A base model rocket kit designed to loft loads (an egg) in its nose-cone.  We have built two kits. |
-| LILYGO® T-Beam SUPREME (UBLOX, 915MHz)    | [Store][tbeam-store-url]<br/>[Firmware][softrf-url]     | A telemetry module capable of high acceleration and altitudes.   We have purchased two of these for redundancy. |
+| LILYGO® T-Beam SUPREME (u-blox, 915MHz)   | [Store][tbeam-store-url]<br/>[Firmware][softrf-url]     | A telemetry module capable of high acceleration and altitudes.   We have purchased two of these for redundancy. |
+| LILYGO® 915MHz Omnidirectional Whip Antenna|                                                        | Included with T-Beam |
 | Custom 3D-Printed Nose-Cone               |                                                         | Designed to house the telemetry module and mate with fuselage.
 | RTL-SDR                                   | [Store][rtl-sdr-store-url]<br/>[Specs][rtl-sdr-specs-url] | A low-cost Software Defined Radio (SDR) USB dongle.  With a frequency range: 500kHz – 1766MHz and bandwidth of 2.4MHz. |
 | HackRF                                    | [Store][hackrf-store-url]                               | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
@@ -52,7 +53,8 @@ This telemetry module has a very compact design.  It is the main component in [L
 It features:
 * A SX1262 LoRa transceiver with frequency range of 150MHz to 960MHz (global ISM bands)
 * Multiple radio protocols supported
-* Ublox M10 GPS/GNSS module capable of high acceleration
+* U-blox M10 GPS/GNSS with high precision
+* QMI8658 6-axis IMU capable of high acceleration
 * An ESP32 with WiFi adapter and web UI for management
 * MicroSD card slot for flight recordings, and post-flight analysis
 * GPIO for future integration
