@@ -56,7 +56,7 @@ It features:
 * U-blox M10 GPS/GNSS with high precision
 * QMI8658 6-axis IMU capable of high acceleration
 * An ESP32 with WiFi adapter and web UI for management
-* MicroSD card slot for flight recordings, and post-flight analysis
+* MicroSD card slot for flight recordings (in [IGC][igc-url]), and post-flight analysis
 * GPIO for future integration
 
 ### Custom 3D-Printed Nose-Cone
@@ -120,6 +120,7 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 [tbeam-store-url]: https://lilygo.cc/products/t-beam-supreme?variant=44907412193461
 [softrf-url]: https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII
 [softrf-settings-url]: https://github.com/lyusupov/SoftRF/wiki/Settings
+[igc-url]: https://en.wikipedia.org/wiki/IGC_(file_format)
 [rtl-sdr-store-url]: https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html
 [rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
 [hackrf-store-url]: https://www.amazon.com/dp/B0BKH7Z2NJ
