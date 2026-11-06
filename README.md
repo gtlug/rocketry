@@ -129,11 +129,14 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 ## Want to be a part of the project?
 [GTLUG][gtlug-url] meets the 2nd Monday of every month.  We encourage you to come join our group meetings.  We plan on scheduling another launch in the spring after we've made progress on telemetry decoding.  We may also target other features as well, TBD.
 
+You can visit our [website][gtlug-url], [Facebook page][facebook-url], or join our IRC (SlashNet#gtlug) for more information.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gtlug-url]: https://gtlug.github.io/
 [model-rocket-wiki-url]: https://en.wikipedia.org/wiki/Model_rocket
+[facebook-url]: https://www.facebook.com/GTLUG/
 [facebook-event-url]: https://www.facebook.com/events/953093524542309/
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
 [rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
