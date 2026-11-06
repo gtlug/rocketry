@@ -7,14 +7,15 @@
 - [x] Charge batteries
 - [x] Add `SPECS.md`
 - [x] Add launch schedule
+- [x] Add Basic Rocketry Intro
+- [x] Install new 32GB µSD in 2nd T-Beam
 - [ ] Charge laptop
-- [ ] Install new µSD in 2nd T-Beam
-- [ ] Add Basic Rocketry Intro
 - [ ] Add `DIARY.md`
 - [ ] Add build photos (maybe)
 
 ## Before Launch
 - [ ] Final nose-cone integration at GTAS
+- [ ] Mod other nose-cone base w/ better seal
 - [ ] Find batteries for launch controller
 - [ ] Determine µSD filesystem
 - [ ] Upgrade 1st T-Beam to v1.9.3
