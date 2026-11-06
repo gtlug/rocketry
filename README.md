@@ -18,6 +18,14 @@ As a GTLUG project, it covers a wide variety of common intersecting subjects tha
 * Reverse Engineering
 * AI
 
+## Announcement: First Launch 🚀
+Our first launch is scheduled for Saturday November 7th @ 4pm, <a href="https://maps.app.goo.gl/XdYiqzcfiGTVXW6o7">Silver Lake Recreation Area</a>.
+
+**NOTICE:** Weather is expected to be cool, so bring some warm clothes.
+
+Check this GitHub repository (RIGHT HERE) as we our our [Facebook event][facebook-event-url] for latest updates and/or possible cancellations.
+
+
 ## Objective
 The purpose of this project is to research, design, and build a telemetry package capable of launching on a model rocket.
 
@@ -100,6 +108,7 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gtlug-url]: https://gtlug.github.com/
+[facebook-event-url]: https://www.facebook.com/events/953093524542309/
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
 [rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
 [tbeam-store-url]: https://lilygo.cc/products/t-beam-supreme?variant=44907412193461
