@@ -56,6 +56,8 @@ In future iterations, we will may target larger rocket platforms, adding LEDs, a
 
 We **WILL NOT** pursue articulating flight control surfaces.  This is because such features would constitute missile construction, and is subject to regulation.
 
+For background on the evolution of this project, check out our [R&D diary](DIARY.md).
+
 ## Hardware
 For this project, we've chosen the following hardware:
 | Part                                      | Links                                                   | Description |
