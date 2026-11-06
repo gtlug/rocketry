@@ -3,14 +3,18 @@
 - [x] [Upgrade](https://github.com/lyusupov/SoftRF/blob/master/software/firmware/binaries/README.md#esp32-s3) firmware v1.9.3 on 2nd T-Beam
 - [x] Spray color fuselages
 - [x] Attach parachutes to shock cord assembly
-- [ ] Upgrade 1st T-Beam to v1.9.3
+- [ ] Add `MEASUREMENTS.md`
+- [ ] Add `DIARY.md`
+- [ ] Add build photos
+- [ ] Add launch schedule
 - [ ] Charge batteries
 - [ ] Charge Laptop
 - [ ] Install new MicroSD in 2nd T-Beam
-- [ ] Determine MicroSD filesystem
 - [ ] Find batteries for launch controller
 - [ ] Clear coat finish fuselages
-- [ ] Apply Sticker
+- [ ] Apply Stickers
+- [ ] Upgrade 1st T-Beam to v1.9.3
+- [ ] Determine MicroSD filesystem
 
 # Pack List
 - [ ] 2x rocket fuselages
