@@ -45,11 +45,18 @@
 </tbody>
 </table>
 
-### Nose-Cone (Quest Courier™ Reference)
+### Nose-Cone (Quest Courier™ Reference) Dimensions
 **Note:** This is only a reference, that came stock with the kit, 
           and NOT the final custom 3D-printed nose-cone dimensions.
           
 <table>
+<thead>
+<tr>
+  <th><ins>Dimension</ins></th>
+  <th><ins>Value</ins></th>
+  <th><ins>Notes</ins></th>
+</tr>
+</thead>
 <tbody>
   <tr><th>Mate Diam:</th>
     <td>34mm</td>
