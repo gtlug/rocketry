@@ -29,6 +29,13 @@
 
 ### Fuselage
 <table>
+<thead>
+<tr>
+  <th><ins>Dimension</ins></th>
+  <th><ins>Value</ins></th>
+  <th><ins>Notes</ins></th>
+</tr>
+</thead>
 <tbody>
   <tr><th>Length:</th>
     <td>357.5mm</td>
@@ -46,8 +53,8 @@
 </table>
 
 ### Nose-Cone (Quest Courier™ Reference) Dimensions
-**Note:** This is only a reference, that came stock with the kit, 
-          and NOT the final custom 3D-printed nose-cone dimensions.
+**Note:** This is only a reference model, that came stock with the kit, 
+          and NOT the custom 3D-printed nose-cone dimensions.
           
 <table>
 <thead>
