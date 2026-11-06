@@ -11,10 +11,13 @@ These are the settings currently set on the T-Beam Supreme telemetry modules:
 | Tx Power     | Full    |
 | Volume       | Off     |
 | LED ring dir.| CoG Up  |
-| NMEA sentences | All on| 
+| NMEA: GNSS   | On      | 
+| NMEA: Private| Off     | 
+| NMEA: Legacy | On      | 
+| NMEA: Sensors| On      | 
 | NMEA output  | Off     |
 | GDL90        | Off     |
 | Dump1090     | Off     |
 | Power save   | Disabled|
-| Stealth      | Enable  |
-| No track     | Enable  |
+| Stealth      | Off     |
+| No track     | Off     |
