@@ -21,3 +21,20 @@ These are the settings currently set on the T-Beam Supreme telemetry modules:
 | Power save   | Disabled|
 | Stealth      | Off     |
 | No track     | Off     |
+
+## Screenshots
+<figure>
+    <figcaption>Screenshot of SoftRF settings</figcaption>
+    <img 
+        src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/softrf-settings.png"
+        style="width: 30%;"
+        alt="SoftRF settings screenshot">
+</figure>
+
+<figure>
+    <figcaption>Screenshot of SoftRF status immediately after power-on.  No satellite locks yet.</figcaption>
+    <img 
+        src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/softrf-status.png"
+        style="width: 30%;"
+        alt="SoftRF settings screenshot">
+</figure>
