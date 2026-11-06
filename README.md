@@ -48,6 +48,8 @@ For this project, we've chosen the following hardware:
 | 900MHz 12dBi Yagi Antenna                | [Store][yagi-uda-store-url]                             | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
 
 ### LILYGO® T-Beam SUPREME
+<div><img src="https://raw.githubusercontent.com/lyusupov/SoftRF/master/documents/images/Prime3-4.jpg" alt="LILYGO® T-Beam SUPREME" align="right" style="width: 30%;" /></div>
+
 This telemetry module has a very compact design.  It is the main component in [LILYGO®'s SoftRF Prime MkIII][softrf-url] project (see <a href="#softrf-firmware">SoftRF Firmware section</a>).
 
 It features:
@@ -76,7 +78,7 @@ The telemetry module, T-Beam SUPREME, comes stock with LILYGO®'s open source (G
 You can find the [SoftRF settings here](SOFTRF_SETTINGS.md).  We chose the Legacy (FLARM Air v7) protocol, because it appeared to be the best documented and included tho most telemetry/vector fields of all the available protocols.
 
 ### SDR++
-<div><img src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/sdrpp-waterfall-915MHz-freq-hop.png" align="right" style="width: 30%;" /></div>
+<div><img src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/sdrpp-waterfall-915MHz-freq-hop.png" alt="SDR++ waterfall plot centered on 915MHz showing frequency hopping" align="right" style="width: 30%;" /></div>
 
 We've been using [SDR++][sdrpp-url] (and either RTL-SDR or HackRF) to do radio spectrum analysis of telemetry transmission signals.
 
