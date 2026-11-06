@@ -111,7 +111,7 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[gtlug-url]: https://gtlug.github.com/
+[gtlug-url]: https://gtlug.github.io/
 [model-rocket-wiki-url]: https://en.wikipedia.org/wiki/Model_rocket
 [facebook-event-url]: https://www.facebook.com/events/953093524542309/
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
