@@ -35,6 +35,8 @@
 </table>
 
 ### Fuselage Dimensions
+<div><img src="fuselage/Scanned Fuselage Ring Cropped.png" alt="LILYGO® T-Beam Supreme Perspective View" title="LILYGO® T-Beam Supreme Perspective View" align="right" width="200" /></div>
+
 <table>
 <thead>
 <tr>
