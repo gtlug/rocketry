@@ -5,9 +5,9 @@
 - [x] Attach parachutes to shock cord assembly
 - [x] Charge batteries
 - [x] Add `SPECS.md`
+- [x] Add launch schedule
 - [ ] Add `DIARY.md`
 - [ ] Add build photos
-- [ ] Add launch schedule
 - [ ] Charge Laptop
 - [ ] Install new MicroSD in 2nd T-Beam
 - [ ] Find batteries for launch controller
