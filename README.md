@@ -18,6 +18,8 @@ As a GTLUG project, it covers a wide variety of common intersecting subjects tha
 * Reverse Engineering
 * AI
 
+For more information about Estes®-style model rockets in general (typical design, engine codes, etc.), check out this [Wikipedia article][model-rocket-wiki-url].
+
 ## Announcement: First Launch 🚀
 Our first launch is scheduled for Saturday November 7th @ 4pm, <a href="https://maps.app.goo.gl/XdYiqzcfiGTVXW6o7">Silver Lake Recreation Area</a>.
 
@@ -108,6 +110,7 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gtlug-url]: https://gtlug.github.com/
+[model-rocket-wiki-url]: https://en.wikipedia.org/wiki/Model_rocket
 [facebook-event-url]: https://www.facebook.com/events/953093524542309/
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
 [rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
