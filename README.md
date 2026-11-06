@@ -62,12 +62,12 @@ It features:
 ### Custom 3D-Printed Nose-Cone
 Using the Courier Model Rocket nose-cone for approximate geometry, while extending the length to fit the telemetry module.  
 
-The design features 3 interconnecting parts: 
-1. **Telemetry module sled**: The T-Beam mounts to this
-2. **Nose-cone top**: Has sled rails and clearance for 915MHz omnidirectinoal antenna
-3. **Nose-cone base**: Mates with fueslage, connects to parachute/recovery phase, and has interlocking connectors to mate with nose-cone top
+The design features 3 interconnecting parts:
+1. **Telemetry module sled**: The T-Beam mounts to this [[STEP](./CAD/inside%20sled.STEP)]
+2. **Nose-cone top**: Has sled rails and clearance for 915MHz omnidirectinoal antenna [[STEP](./CAD/Top%20Part.STEP)]
+3. **Nose-cone base**: Mates with fuselage, connects to parachute/recovery phase, and has interlocking connectors to mate with nose-cone top [[STEP](./CAD/bottom%20Piece.STEP)]
 
-CAD files coming soon.
+Linked are the 3D models used to print.
 
 ## Software
 ### SoftRF Firmware
