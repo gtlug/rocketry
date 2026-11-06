@@ -57,6 +57,8 @@ For this project, we've chosen the following hardware:
 | HackRF                                    | [Store][hackrf-store-url]                               | An alternative SDR.  With a frequency range: 1MHz – 6GHz and bandwidth of 20MHz.  It's still TBD whether this or the RTL-SDR is adequate for telemetry decoding. |
 | 900MHz 12dBi Yagi Antenna                | [Store][yagi-uda-store-url]                             | A high-gain Yagi-Uda directional antenna for receiving telemetry radio signals. |
 
+For project-relavant physical dimensions, check out the [SPECIFICATIONS](SPECS.md) document.
+
 ### LILYGO® T-Beam SUPREME
 <div><img src="https://raw.githubusercontent.com/lyusupov/SoftRF/master/documents/images/Prime3-4.jpg" alt="LILYGO® T-Beam SUPREME" title="LILYGO® T-Beam SUPREME" align="right" style="width: 30%;" /></div>
 
