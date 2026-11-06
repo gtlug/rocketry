@@ -63,9 +63,9 @@ It features:
 Using the Courier Model Rocket nose-cone for approximate geometry, while extending the length to fit the telemetry module.  
 
 The design features 3 interconnecting parts:
-1. **Telemetry module sled**: The T-Beam mounts to this [[STEP](./CAD/inside%20sled.STEP)]
-2. **Nose-cone top**: Has sled rails and clearance for 915MHz omnidirectinoal antenna [[STEP](./CAD/Top%20Part.STEP)]
-3. **Nose-cone base**: Mates with fuselage, connects to parachute/recovery phase, and has interlocking connectors to mate with nose-cone top [[STEP](./CAD/bottom%20Piece.STEP)]
+1. **Telemetry module sled**: The T-Beam mounts to this. [[STEP](./CAD/inside%20sled.STEP)]
+2. **Nose-cone top**: Has rails and clearance for 915MHz omnidirectinoal antenna for telemetry module to slide into. [[STEP](./CAD/Top%20Part.STEP)]
+3. **Nose-cone base**: Mates with fuselage, connects to parachute/recovery phase, and has interlocking connectors to mate with nose-cone top.  Locks telemetry sled into nose-cone. [[STEP](./CAD/bottom%20Piece.STEP)]
 
 Linked are the 3D models used to print.
 
