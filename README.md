@@ -67,7 +67,7 @@ The design features 3 interconnecting parts:
 2. **Nose-cone top**: Has rails and clearance for 915MHz omnidirectinoal antenna for telemetry module to slide into. [[STEP](./CAD/Top%20Part.STEP)]
 3. **Nose-cone base**: Mates with fuselage, connects to parachute/recovery phase, and has interlocking connectors to mate with nose-cone top.  Locks telemetry sled into nose-cone. [[STEP](./CAD/bottom%20Piece.STEP)]
 
-Linked are the 3D models used to print.
+Linked are the STEP model files used to 3D-print.
 
 ## Software
 ### SoftRF Firmware
