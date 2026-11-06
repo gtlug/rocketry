@@ -1,5 +1,5 @@
 # TODO
-- [x] [Download](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/binaries/ESP32S3/SoftRF/MassStorage) firmeware v1.9.3
+- [x] [Download](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/binaries/ESP32S3/SoftRF/MassStorage) firmware v1.9.3
 - [x] [Upgrade](https://github.com/lyusupov/SoftRF/blob/master/software/firmware/binaries/README.md#esp32-s3) firmware v1.9.3 on 2nd T-Beam
 - [x] Spray color fuselages
 - [x] Attach parachutes to shock cord assembly
@@ -8,13 +8,14 @@
 - [x] Add launch schedule
 - [ ] Add `DIARY.md`
 - [ ] Add build photos
-- [ ] Charge Laptop
-- [ ] Install new MicroSD in 2nd T-Beam
+- [ ] Charge laptop
+- [ ] Install new µSD in 2nd T-Beam
 - [ ] Find batteries for launch controller
-- [ ] Clear coat finish fuselages
-- [ ] Apply Stickers
-- [ ] Upgrade 1st T-Beam to v1.9.3
 - [ ] Determine MicroSD filesystem
+- [ ] Final nose-cone integration at GTAS
+- [ ] Upgrade 1st T-Beam to v1.9.3
+- [ ] Clear coat finish fuselages
+- [ ] Apply stickers
 
 # Pack List
 - [ ] 2x rocket fuselages
