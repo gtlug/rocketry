@@ -2,7 +2,7 @@
 ## Introduction
 <div style="float: right;"><img src="./images/tux_rocket.png" alt="Rocket Tux" style="width: 30%;" align="right" /></div>
 
-At [GTLUG's][gtlug-url] July 2024 monthly meeting, we started work on a model rocketry group project.
+At [Grand Traverse Linux Group's][gtlug-url] (GTLUG) July 2024 monthly meeting, we started work on a model rocketry group project.
 
 We've set out to solve a simple problem: How do we launch a model rocket without losing it?
 
@@ -123,6 +123,10 @@ The intended stack is:
 * Google Earth (or some other mapping software) consumes feed and provides a GUI to user
 
 The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separate repository, see link) using open source Large Language Models (LLMs) like Qwen 3.8, hosted locally using Ollama, and using open source local-first autonomous agents like OpenClaw and Hermes.
+
+## Want to be a part of the project?
+[GTLUG][gtlug-url] meets the 2nd Monday of every month.  We encourage you to come join our group meetings.  We plan on scheduling another launch in the spring after we've made progress on telemetry decoding.  We may also target other features as well, TBD.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
