@@ -21,11 +21,22 @@ As a GTLUG project, it covers a wide variety of common intersecting subjects tha
 For more information about Estes®-style model rockets in general (typical design, engine codes, etc.), check out this [Wikipedia article][model-rocket-wiki-url].
 
 ## Announcement: First Launch 🚀
-Our first launch is scheduled for Saturday November 7th @ 4pm, <a href="https://maps.app.goo.gl/XdYiqzcfiGTVXW6o7">Silver Lake Recreation Area</a>.
+Our first launch is scheduled:
+<table>
+<tr><th>Date</th>
+  <td>Saturday November 7th</td>
+</tr>
+<tr><th>Time</th>
+  <td>4-6pm</td>
+</tr>
+<tr><th>Location</th>
+  <td><a href="https://maps.app.goo.gl/XdYiqzcfiGTVXW6o7">Silver Lake Recreation Area</a></td>
+</tr>
+</table>
 
 **NOTICE:** Weather is expected to be cool, so bring some warm clothes.
 
-Check this GitHub repository (RIGHT HERE) as we our our [Facebook event][facebook-event-url] for latest updates and/or possible cancellations.
+Check this GitHub repository (RIGHT HERE) as well as our our [Facebook event][facebook-event-url] for latest updates and/or possible cancellations.
 
 
 ## Objective
