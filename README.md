@@ -40,7 +40,9 @@ Check this GitHub repository (RIGHT HERE) as well as our our [Facebook event][fa
 
 
 ## Objective
-The purpose of this project is to research, design, and build a telemetry package capable of launching on a model rocket.
+The purpose of this project is to research, design, and build a telemetry package capable of launching on a model rocket.  Then reliably be able to recover it.
+
+Ideally this means getting real-time telemetry, including geospacial (GPS) coordinates, off the rocket while it's in flight.
 
 ## Plan
 The current plan is to integrate discrete telemetry hardware into a 3D-printed nose-cone.
