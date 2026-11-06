@@ -27,7 +27,7 @@
 </tbody>
 </table>
 
-### Fuselage
+### Fuselage Dimensions
 <table>
 <thead>
 <tr>
@@ -88,3 +88,59 @@
 </tbody>
 </table>
 
+## LILYGO® T-Beam Supreme Dimensions
+<table>
+<thead>
+<tr>
+  <th><ins>Dimension</ins></th>
+  <th><ins>Value</ins></th>
+  <th><ins>Notes</ins></th>
+</tr>
+</thead>
+<tbody>
+  <tr><th>Board Length:</th>
+    <td>100.75mm</td>
+    <td>Ignoring RF-coax and wire wrapping edge</td>
+  </tr>
+  <tr><th>Full Length:</th>
+    <td>114.10mm</td>
+    <td>Including RF-coax port</td>
+  </tr>
+  <tr><th>Antenna Len:</th>
+    <td>109mm</td>
+    <td></td>
+  </tr>
+  <tr><th>Antenna Dia:</th>
+    <td>10mm</td>
+    <td></td>
+  </tr>
+  <tr><th>Board Width:</th>
+    <td>32.80mm</td>
+    <td>Ignoring tiny buttons on side</td>
+  </tr>
+  <tr><th>Base Height:</th>
+    <td>28.00mm</td>
+    <td>Including Battery Holder</td>
+  </tr>
+  <tr><th>Full Height:</th>
+    <td>29mm</td>
+    <td>Including Battery</td>
+  </tr>
+  <tr><th>Base Mass:</th>
+    <td>46g</td>
+    <td>No battery or SD</td>
+  </tr>
+  <tr><th>µSD Card:</th>
+    <td>Standard</td>
+    <td>https://en.wikipedia.org/wiki/SD_card</td>
+  </tr>
+  <tr><th>:</th>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><th>:</th>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
