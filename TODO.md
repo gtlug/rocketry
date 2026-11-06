@@ -11,7 +11,7 @@
 - [ ] Charge laptop
 - [ ] Install new µSD in 2nd T-Beam
 - [ ] Find batteries for launch controller
-- [ ] Determine MicroSD filesystem
+- [ ] Determine µSD filesystem
 - [ ] Final nose-cone integration at GTAS
 - [ ] Upgrade 1st T-Beam to v1.9.3
 - [ ] Clear coat finish fuselages
