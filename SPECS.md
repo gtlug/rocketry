@@ -53,21 +53,25 @@
 </table>
 
 ### Nose-Cone (Quest Courier™ Reference) Dimensions
+<div style="float: right;"></div>
+
 **Note:** This is only a reference model, that came stock with the kit, 
           and NOT the custom 3D-printed nose-cone dimensions.
-          
+<div>
 <table>
 <thead>
 <tr>
   <th><ins>Dimension</ins></th>
   <th><ins>Value</ins></th>
   <th><ins>Notes</ins></th>
+  <th></th>
 </tr>
 </thead>
 <tbody>
   <tr><th>Mate Diam</th>
     <td>34mm</td>
     <td></td>
+    <td rowspan="5"><img src="./fuselage/Scanned%20Nose%20Profile%20Cropped.png" alt="Nose-Cone Profile" title="Nose-Cone Profile" align="right" style="width: 30%;" /></td>
   </tr>
   <tr><th>Mate Len</th>
     <td>20mm</td>
@@ -87,6 +91,7 @@
   </tr>
 </tbody>
 </table>
+</div>
 
 ## LILYGO® T-Beam Supreme Dimensions
 <div><img src="https://cdn.shopify.com/s/files/1/0617/7190/7253/files/LILYGO-T-BEAM_4_edfa6584-c3e4-4415-aecc-fd919a44c8dd_600x600.jpg?v=1685353030" alt="LILYGO® T-Beam Supreme Perspective View" title="LILYGO® T-Beam Supreme Perspective View" align="right" style="width: 30%;" /></div>
