@@ -89,6 +89,10 @@
 </table>
 
 ## LILYGO® T-Beam Supreme Dimensions
+<div><img src="https://cdn.shopify.com/s/files/1/0617/7190/7253/files/LILYGO-T-BEAM_4_edfa6584-c3e4-4415-aecc-fd919a44c8dd_600x600.jpg?v=1685353030" alt="LILYGO® T-Beam Supreme Perspective View" title="LILYGO® T-Beam Supreme Perspective View" align="right" style="width: 30%;" /></div>
+
+Visit [LILYGO®'s store][tbeam-store-url] to see other specifications.
+
 <table>
 <thead>
 <tr>
@@ -144,3 +148,16 @@
   </tr>
 </tbody>
 </table>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
+[rocket-specs-url]: https://www.apogeerockets.com/Rocket-Kits/Skill-Level-2-Model-Rocket-Kits/Courier#rocksim
+[tbeam-store-url]: https://lilygo.cc/products/t-beam-supreme?variant=44907412193461
+[softrf-url]: https://github.com/lyusupov/SoftRF/wiki/Prime-Edition-MkIII
+[rtl-sdr-store-url]: https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html
+[rtl-sdr-specs-url]: https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf
+[hackrf-store-url]: https://www.amazon.com/dp/B0BKH7Z2NJ
+[yagi-uda-store-url]: https://www.data-alliance.net/900-mhz-12dbi-yagi-antenna-w-cable-to-n-female/
+[sdrpp-url]: https://www.sdrpp.org/
+[gnu-radio-url]: https://www.gnuradio.org/
