@@ -161,6 +161,8 @@ Visit [LILYGO®'s store][tbeam-store-url] to see other specifications.
 </tbody>
 </table>
 
+<img src="./images/t-beam-diagram.png" alt="T-Beam Supreme sketch with measurements" title="T-Beam Supreme sketch with measurements" style="width: 50%" />
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
