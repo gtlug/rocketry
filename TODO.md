@@ -4,7 +4,7 @@
 - [x] Spray color fuselages
 - [x] Attach parachutes to shock cord assembly
 - [x] Charge batteries
-- [ ] Add `MEASUREMENTS.md`
+- [x] Add `SPECS.md`
 - [ ] Add `DIARY.md`
 - [ ] Add build photos
 - [ ] Add launch schedule
