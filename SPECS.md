@@ -134,12 +134,12 @@
     <td>Standard</td>
     <td>https://en.wikipedia.org/wiki/SD_card</td>
   </tr>
-  <tr><th></th>
-    <td></td>
+  <tr><th>µSD Card Mass</th>
+    <td>0.8g</td>
     <td></td>
   </tr>
-  <tr><th></th>
-    <td></td>
+  <tr><th>18650 Battery Mass</th>
+    <td>49g</td>
     <td></td>
   </tr>
 </tbody>
