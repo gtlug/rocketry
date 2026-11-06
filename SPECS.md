@@ -1,9 +1,16 @@
 # Specifications
 
 ## Quest Courier™ Model Rocket Kit
+
 <table>
 <tbody>
-  <tr><th>Make</th><td>Quest</td></tr>
+  <tr>
+    <th>Make</th>
+    <td>Quest</td>
+    <td rowspan="7">
+      <img src="https://aerotech-rocketry.com/cdn/shop/products/Q2011_480x.jpg?v=1640101063" alt="Quest Courier™ Model Rocket Kit" title="Quest Courier™ Model Rocket Kit" align="right" style="" />
+    </td>
+  </tr>
   <tr><th>Model</th><td>Courier™</td></tr>
   <tr><th>Price</th><td>$13.79</td></tr>
   <tr><th>Length (Full Stock)</th><td>505mm</td></tr>
@@ -71,7 +78,7 @@
   <tr><th>Mate Diam</th>
     <td>34mm</td>
     <td></td>
-    <td rowspan="5"><img src="./fuselage/Scanned%20Nose%20Profile%20Cropped.png" alt="Nose-Cone Profile" title="Nose-Cone Profile" align="right" style="width: 30%;" /></td>
+    <td rowspan="5"><img src="./fuselage/Scanned%20Nose%20Profile%20Cropped.png" alt="Nose-Cone Profile" width="250" title="Nose-Cone Profile" align="right" /></td>
   </tr>
   <tr><th>Mate Len</th>
     <td>20mm</td>
@@ -94,7 +101,7 @@
 </div>
 
 ## LILYGO® T-Beam Supreme Dimensions
-<div><img src="https://cdn.shopify.com/s/files/1/0617/7190/7253/files/LILYGO-T-BEAM_4_edfa6584-c3e4-4415-aecc-fd919a44c8dd_600x600.jpg?v=1685353030" alt="LILYGO® T-Beam Supreme Perspective View" title="LILYGO® T-Beam Supreme Perspective View" align="right" style="width: 30%;" /></div>
+<div><img src="https://cdn.shopify.com/s/files/1/0617/7190/7253/files/LILYGO-T-BEAM_4_edfa6584-c3e4-4415-aecc-fd919a44c8dd_600x600.jpg?v=1685353030" alt="LILYGO® T-Beam Supreme Perspective View" title="LILYGO® T-Beam Supreme Perspective View" align="right" width="320" /></div>
 
 Visit [LILYGO®'s store][tbeam-store-url] to see other specifications.
 
