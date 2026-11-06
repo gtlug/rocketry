@@ -1,6 +1,6 @@
 # GTLUG Model Rocketry Project
 ## Introduction
-<div style="float: right;"><img src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/tux_rocket.png" alt="" style="width: 30%;" align="right" /></div>
+<div style="float: right;"><img src="./images/tux_rocket.png" alt="" style="width: 30%;" align="right" /></div>
 
 At [GTLUG's][gtlug-url] July 2024 monthly meeting, we started work on a model rocketry group project.
 
@@ -76,6 +76,8 @@ The telemetry module, T-Beam SUPREME, comes stock with LILYGO®'s open source (G
 You can find the [SoftRF settings here](SOFTRF_SETTINGS.md).  We chose the Legacy (FLARM Air v7) protocol, because it appeared to be the best documented and included tho most telemetry/vector fields of all the available protocols.
 
 ### SDR++
+<div><img src="https://raw.githubusercontent.com/gtlug/rocketry/refs/heads/main/images/sdrpp-waterfall-915MHz-freq-hop.png" align="right" style="width: 30%;" /></div>
+
 We've been using [SDR++][sdrpp-url] (and either RTL-SDR or HackRF) to do radio spectrum analysis of telemetry transmission signals.
 
 This tool is useful for visualizing the spectrum in a "waterfall plot" and identifying patterns in signals.  Once signals have been isolated, SDR++ can be used to capture base-band IQ recordings in a WAV file.  These captures have been used for later analysis.
