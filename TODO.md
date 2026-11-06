@@ -1,4 +1,5 @@
 # TODO
+## Before GTAS Meeting
 - [x] [Download](https://github.com/lyusupov/SoftRF/tree/master/software/firmware/binaries/ESP32S3/SoftRF/MassStorage) firmware v1.9.3
 - [x] [Upgrade](https://github.com/lyusupov/SoftRF/blob/master/software/firmware/binaries/README.md#esp32-s3) firmware v1.9.3 on 2nd T-Beam
 - [x] Spray color fuselages
@@ -6,13 +7,16 @@
 - [x] Charge batteries
 - [x] Add `SPECS.md`
 - [x] Add launch schedule
-- [ ] Add `DIARY.md`
-- [ ] Add build photos
 - [ ] Charge laptop
 - [ ] Install new µSD in 2nd T-Beam
+- [ ] Add Basic Rocketry Intro
+- [ ] Add `DIARY.md`
+- [ ] Add build photos (maybe)
+
+## Before Launch
+- [ ] Final nose-cone integration at GTAS
 - [ ] Find batteries for launch controller
 - [ ] Determine µSD filesystem
-- [ ] Final nose-cone integration at GTAS
 - [ ] Upgrade 1st T-Beam to v1.9.3
 - [ ] Clear coat finish fuselages
 - [ ] Apply stickers
