@@ -84,6 +84,8 @@ It features:
 * MicroSD card slot for flight recordings (in [IGC][igc-url]), and post-flight analysis
 * GPIO for future integration
 
+Part of our research, we considered other Flight Control Units (FCU).  For some background, check out [this FCU comparison](FCU_COMPARISON.md).
+
 ### Custom 3D-Printed Nose-Cone
 Using the Courier Model Rocket nose-cone for approximate geometry, while extending the length to fit the telemetry module.  
 
