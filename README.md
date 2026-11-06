@@ -73,26 +73,7 @@ Linked are the STEP model files used to 3D-print.
 ### SoftRF Firmware
 The telemetry module, T-Beam SUPREME, comes stock with LILYGO®'s open source (GPLv3) [SoftRF firmware][softrf-url].  We have upgraded both T-Beams with the latest compatible release.  All management, including firmware upgrades are done via the built-in web server and simple web UI.
 
-We are using the following [settings][softrf-settings-url]:
-| Configurable | Setting |
-|--------------|---------|
-| Mode         | Normal  |
-| Protocol     | Legacy  |
-| Region       | US/CA (915MHz) |
-| Aircraft Type| Balloon |
-| Alarm Trigger| None    |
-| Tx Power     | Full    |
-| Volume       | Off     |
-| LED ring dir.| CoG Up  |
-| NMEA sentences | All on| 
-| NMEA output  | Off     |
-| GDL90        | Off     |
-| Dump1090     | Off     |
-| Power save   | Disabled|
-| Stealth      | Enable  |
-| No track     | Enable  |
-
-We chose the Legacy (FLARM Air v7) protocol, because it appeared to be the best documented and included tho most telemetry/vector fields of all the available protocols.
+You can find the [SoftRF settings here](SOFTRF_SETTINGS.md).  We chose the Legacy (FLARM Air v7) protocol, because it appeared to be the best documented and included tho most telemetry/vector fields of all the available protocols.
 
 ### SDR++
 We've been using [SDR++][sdrpp-url] (and either RTL-SDR or HackRF) to do radio spectrum analysis of telemetry transmission signals.
