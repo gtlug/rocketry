@@ -27,29 +27,29 @@
 
 # Pack List
 - [ ] Rocketry Bin
-  - [ ] Wadding
-  - [ ] Duct tape
-  - [ ] Electrical tape
-  - [ ] Launch pad
-  - [ ] Launch controller
-  - [ ] Launch controller batteries
-  - [ ] WD-40
-  - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
+  - [x] Wadding
+  - [x] Duct tape
+  - [x] Electrical tape
+  - [x] Launch pad
+  - [x] Launch controller
+  - [x] Launch controller batteries
+  - [x] WD-40
+  - [x] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
 - [ ] Test Article Bin
-  - [ ] 2x rocket fuselages
-  - [ ] 2x recovery: shock cord, parachute
+  - [x] 2x rocket fuselages
+  - [x] 2x recovery: shock cord, parachute
   - [ ] 2x T-Beam Supremes (Deltadragon has)
   - [ ] 2x 915MHz omni (Deltadragon has)
   - [ ] 2x nose-cones (Deltadragon has)
 - [ ] Radio Bin
-  - [ ] 4x 18650 Li-Ion batteries
-  - [ ] N to SMA 4' cable
-  - [ ] SMA extension cable
-  - [ ] HackRF + USB cable
-  - [ ] Laptop w/ SDR++
-  - [ ] USB A-A extension cable
-  - [ ] Digital scale
-  - [ ] 3x hand radios (walkie talkies)
+  - [x] 4x 18650 Li-Ion batteries
+  - [x] N to SMA 4' cable
+  - [x] SMA extension cable
+  - [x] HackRF + USB cable
+  - [x] Laptop w/ SDR++
+  - [x] USB A-A extension cable
+  - [x] Digital scale
+  - [x] 3x hand radios (walkie talkies)
 - [ ] Other
   - [ ] Yagi-Uda with N connector
   - [ ] Folding table
