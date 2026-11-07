@@ -46,6 +46,7 @@
   - [ ] Laptop w/ SDR++
   - [ ] USB A-A extension cable
   - [ ] Digital scale
+  - [ ] 3x hand radios (walkie talkies)
 - [ ] Other
   - [ ] Yagi-Uda with N connector
   - [ ] Folding table
