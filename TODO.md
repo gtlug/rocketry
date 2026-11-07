@@ -19,9 +19,11 @@
 - [ ] ~~Determine µSD filesystem~~
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
 - [ ] ~~Apply stickers (maybe later)~~
-- [ ] Mod other nose-cone base w/ better seal (Ryan)
+- [ ] Mod other nose-cone base w/ better seal (Deltadragon)
+- [ ] 1st telemetry module mount to nose-cone sled (Deltadragon)
 - [ ] Wrap new electrical tape handle around Yagi
 - [ ] Find batteries for launch controller
+- [ ] Final nose-cone integration at launch site
 
 # Pack List
 - [ ] Rocketry Bin
@@ -36,9 +38,9 @@
 - [ ] Test Article Bin
   - [ ] 2x rocket fuselages
   - [ ] 2x recovery: shock cord, parachute
-  - [ ] 2x T-Beam Supremes
-  - [ ] 2x 915MHz omni
-  - [ ] 2x nose-cones
+  - [ ] 2x T-Beam Supremes (Deltadragon has)
+  - [ ] 2x 915MHz omni (Deltadragon has)
+  - [ ] 2x nose-cones (Deltadragon has)
 - [ ] Radio Bin
   - [ ] 4x 18650 Li-Ion batteries
   - [ ] N to SMA 4' cable
