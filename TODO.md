@@ -23,24 +23,27 @@
 - [ ] Apply stickers
 
 # Pack List
-- [ ] 2x rocket fuselages
-- [ ] 2x recovery: shock cord, parachute
-- [ ] 2x T-Beam Supremes
-- [ ] 2x 915MHz omni
-- [ ] 4x 18650 Li-Ion batteries
-- [ ] 2x nose-cones
-- [ ] Wadding
-- [ ] Duct tape
-- [ ] Electrical tape
-- [ ] Yagi-Uda with N connector
-- [ ] N to SMA 4' cable
-- [ ] HackRF + USB cable
-- [ ] Laptop w/ SDR++
-- [ ] Launch pad
-- [ ] Launch controller
-- [ ] Launch controller batteries
-- [ ] WD-40
-- [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
-- [ ] USB A-A extension cable
-- [ ] Digital scale
-- [ ] Folding table
+- [ ] Rocket Bin
+  - [ ] 2x rocket fuselages
+  - [ ] 2x recovery: shock cord, parachute
+  - [ ] 2x T-Beam Supremes
+  - [ ] 2x 915MHz omni
+  - [ ] 4x 18650 Li-Ion batteries
+  - [ ] 2x nose-cones
+  - [ ] Wadding
+  - [ ] Duct tape
+  - [ ] Electrical tape
+- [ ] Radio Bin
+  - [ ] N to SMA 4' cable
+  - [ ] HackRF + USB cable
+  - [ ] Laptop w/ SDR++
+  - [ ] Launch pad
+  - [ ] Launch controller
+  - [ ] Launch controller batteries
+  - [ ] WD-40
+  - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
+  - [ ] USB A-A extension cable
+  - [ ] Digital scale
+- [ ] Other
+  - [ ] Yagi-Uda with N connector
+  - [ ] Folding table
