@@ -9,16 +9,16 @@
 - [x] Add launch schedule
 - [x] Add Basic Rocketry Intro
 - [x] Install new 32GB µSD in 2nd T-Beam
-- [ ] Charge laptop
-- [ ] Add `DIARY.md`
-- [ ] Add build photos (maybe)
+- [x] Add `DIARY.md`
+- [ ] ~~Add build photos (maybe)~~
 
 ## Before Launch
+- [ ] ~~Determine µSD filesystem~~
+- [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
+- [ ] Charge laptop
 - [ ] Final nose-cone integration at GTAS
 - [ ] Mod other nose-cone base w/ better seal
 - [ ] Find batteries for launch controller
-- [ ] Determine µSD filesystem
-- [ ] Upgrade 1st T-Beam to v1.9.3
 - [ ] Clear coat finish fuselages
 - [ ] Apply stickers
 
@@ -41,4 +41,6 @@
 - [ ] Launch controller batteries
 - [ ] WD-40
 - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
-- [ ] 
+- [ ] USB A-A extension cable
+- [ ] Digital scale
+- [ ] Folding table
