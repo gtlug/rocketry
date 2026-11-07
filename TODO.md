@@ -11,13 +11,14 @@
 - [x] Install new 32GB µSD in 2nd T-Beam
 - [x] Add `DIARY.md`
 - [ ] ~~Add build photos (maybe)~~
+- [ ] Final nose-cone integration at GTAS
 
 ## Before Launch
 - [ ] ~~Determine µSD filesystem~~
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
-- [ ] Charge laptop
-- [ ] Final nose-cone integration at GTAS
 - [ ] Mod other nose-cone base w/ better seal
+- [ ] Wrap new electrical tape handle around Yagi
+- [ ] Charge laptop
 - [ ] Find batteries for launch controller
 - [ ] Clear coat finish fuselages
 - [ ] Apply stickers
