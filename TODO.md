@@ -33,15 +33,16 @@
   - [ ] Wadding
   - [ ] Duct tape
   - [ ] Electrical tape
-- [ ] Radio Bin
-  - [ ] N to SMA 4' cable
-  - [ ] HackRF + USB cable
-  - [ ] Laptop w/ SDR++
   - [ ] Launch pad
   - [ ] Launch controller
   - [ ] Launch controller batteries
   - [ ] WD-40
   - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
+- [ ] Radio Bin
+  - [ ] N to SMA 4' cable
+  - [ ] SMA extension cable
+  - [ ] HackRF + USB cable
+  - [ ] Laptop w/ SDR++
   - [ ] USB A-A extension cable
   - [ ] Digital scale
 - [ ] Other
