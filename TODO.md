@@ -16,12 +16,12 @@
 ## Before Launch
 - [x] Charge laptop
 - [x] Clear coat finish fuselages
+- [x] Wrap new electrical tape handle around Yagi
 - [ ] ~~Determine µSD filesystem~~
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
 - [ ] ~~Apply stickers (maybe later)~~
 - [ ] Mod other nose-cone base w/ better seal (Deltadragon)
 - [ ] 1st telemetry module mount to nose-cone sled (Deltadragon)
-- [ ] Wrap new electrical tape handle around Yagi
 - [ ] Find batteries for launch controller
 - [ ] Final nose-cone integration at launch site
 
