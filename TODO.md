@@ -11,26 +11,20 @@
 - [x] Install new 32GB µSD in 2nd T-Beam
 - [x] Add `DIARY.md`
 - [ ] ~~Add build photos (maybe)~~
-- [ ] Final nose-cone integration at GTAS
+- [ ] ~~Final nose-cone integration at GTAS~~
 
 ## Before Launch
+- [x] Charge laptop
+- [x] Clear coat finish fuselages
 - [ ] ~~Determine µSD filesystem~~
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
-- [ ] Mod other nose-cone base w/ better seal
+- [ ] ~~Apply stickers (maybe later)~~
+- [ ] Mod other nose-cone base w/ better seal (Ryan)
 - [ ] Wrap new electrical tape handle around Yagi
-- [ ] Charge laptop
 - [ ] Find batteries for launch controller
-- [ ] Clear coat finish fuselages
-- [ ] Apply stickers
 
 # Pack List
-- [ ] Rocket Bin
-  - [ ] 2x rocket fuselages
-  - [ ] 2x recovery: shock cord, parachute
-  - [ ] 2x T-Beam Supremes
-  - [ ] 2x 915MHz omni
-  - [ ] 4x 18650 Li-Ion batteries
-  - [ ] 2x nose-cones
+- [ ] Rocketry Bin
   - [ ] Wadding
   - [ ] Duct tape
   - [ ] Electrical tape
@@ -39,7 +33,14 @@
   - [ ] Launch controller batteries
   - [ ] WD-40
   - [ ] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
+- [ ] Test Article Bin
+  - [ ] 2x rocket fuselages
+  - [ ] 2x recovery: shock cord, parachute
+  - [ ] 2x T-Beam Supremes
+  - [ ] 2x 915MHz omni
+  - [ ] 2x nose-cones
 - [ ] Radio Bin
+  - [ ] 4x 18650 Li-Ion batteries
   - [ ] N to SMA 4' cable
   - [ ] SMA extension cable
   - [ ] HackRF + USB cable
