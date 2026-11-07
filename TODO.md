@@ -20,9 +20,9 @@
 - [ ] ~~Determine µSD filesystem~~
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
 - [ ] ~~Apply stickers (maybe later)~~
+- [ ] ~~Find batteries for launch controller (batteries tested OK, "ready" light just broken)~~
 - [ ] Mod other nose-cone base w/ better seal (Deltadragon)
 - [ ] 1st telemetry module mount to nose-cone sled (Deltadragon)
-- [ ] Find batteries for launch controller
 - [ ] Final nose-cone integration at launch site
 
 # Pack List
