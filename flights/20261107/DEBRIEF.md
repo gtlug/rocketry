@@ -26,21 +26,33 @@ we were able to orient the antenna in an orthogonal direction approximately 25 f
 recognize the signal, albeit lower in strenth.
 
 ## 1st Attempt
-On the very first flight, we used Rocket "E" in a fully integrated assembly, includig telemetry unit "A".
+On the very first flight attempt, we used Rocket "E" in a fully integrated assembly, includig telemetry unit "A".
 
 We used an A8 engine.  Granted it is the lowest capcity engine, 8 Newtons is the highest thrust engine we brought.
 
-The rocket did get off the launch pad, but only about a yard before the first rocket phase ended, 
-and the rocket landed only a few feet away from the launch pad.  The rocket was left to trigger its 
-report phase resting on the ground.  This appears to have caused one of the fins to break.
-The rest of the rocket is in great condition and is likely reusable.
+The rocket did get off the launch pad, but only barely and landed only a few feet away from the launch pad.
+The engine finished its first phase on the ground.  The rocket was left to trigger its 
+report phase while resting on the ground.  This appears to have caused one of the fins to break.
+The single fin is beyond repair.  The rest of the rocket is in great condition and is likely reusable.
 
 Telemetry IGC file coming soon.
 
 ## 2nd Attempt
 On the second flight, we had to switch to Rocket "A".  Testing using the same configuration of variables
 as the 1st attempt would NOT be valuable.  Because 8 Newtons was the highest thrust value we had,
-the next logical step (given F=ma) we had to  change the mass of the rocket.
+the next logical step (given F=ma) we had to change the mass of the rocket.
 
 Because we still wanted to test the aerodynamics of the nose-cone and kit integration, we removed
 the telemetry module.  We weren't actually capturing real-time telemetry anyway.
+
+For this test, we tested again with an A8 engine.  This time the rocket made it several feet above the 
+launch pade before the first rocket phase ended.  It seemed that there was just moderate (not large)
+thrust, but perhaps just not enough of it.
+
+To avoid rapid unplanned disassembly like the 1st attempt, the rocket was hazardously lifted 
+**before** the report phase could fire and possibly wreck another fin.
+
+Because the telemetry module didn't fly, no data will be available for this flight or the 3rd.
+
+## 3rd Attempt
+On the 3rd attempt, we used Rocket "A" again.
