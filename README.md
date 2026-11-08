@@ -131,8 +131,6 @@ The [SoftRF decoder package][softrf-decoder-url] is being developed (in a separa
 
 You can visit our [website][gtlug-url], [Facebook page][facebook-url], or join our IRC (SlashNet#gtlug) for more information.
 
-We hope to see you at the launch on Saturday!
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
