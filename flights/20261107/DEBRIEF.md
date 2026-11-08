@@ -28,6 +28,8 @@ recognize the signal, albeit lower in strenth.
 ## 1st Attempt
 On the very first flight attempt, we used Rocket "E" in a fully integrated assembly, includig telemetry unit "A".
 
+We oriented the launch pole approximately 5° off vertical in the opposite direction of wind.
+
 We used an A8 engine.  Granted it is the lowest capcity engine, 8 Newtons is the highest thrust engine we brought.
 
 The rocket did get off the launch pad, but only barely and landed only a few feet away from the launch pad.
@@ -36,6 +38,11 @@ report phase while resting on the ground.  This appears to have caused one of th
 The single fin is beyond repair.  The rest of the rocket is in great condition and is likely reusable.
 
 Telemetry IGC file coming soon.
+
+We also used our radio capture stack (Yagi-Uda, HackRF, SDR++, etc.), we captured a base-band IQ WAV recording of the 
+telemetry radio signal centered on 915MHz (±10MHz bandwidth).  This was captured starting during countdown (on "3"),
+and was stopped immediately after the rocket landed on the ground, before the report phase fired.
+This RF WAV capture will be made available, coming soon.
 
 ## 2nd Attempt
 On the second flight, we had to switch to Rocket "A".  Testing using the same configuration of variables
@@ -56,4 +63,40 @@ Because the telemetry module didn't fly, no data will be available for this flig
 
 ## 3rd Attempt
 On the 3rd attempt, we used Rocket "A" again.  Because the 2nd attempt seemed to have enough thrust
-but perhaps just not enough of it; we decided to go straight to C6 engines.
+but perhaps just not long enoguh; we decided to go straight to C6 engines.  Specifically, we used
+a C6-7.  It has only 6 Newtons, rather than the 8N used in the 1st and 2nd attempts, so having no
+mass calculations, it was a risk not having enough thrust to launch again.  Still, the hypothesis
+was that perhaps it would still be just enough, and burn for long enough.
+
+We reoriented the launch pole vertical.
+
+This was a successful launch initially.  It traveled approximately 100 feet into the air 
+before reaching apogee.  Unfortunately, due to the long 7 second delay on the engine,
+which was probably designed for a much lighter mass rocket traveling to higher altitudes,
+our rocket didn't have enough time to fire its report phase, before nosediving (AKA lawn-darting).
+
+This report phase failure and crash resulted in another broken fin, and damaged nose-cone.
+
+Because our test articles were beyond immediate repair, we had to terminate our testing.
+
+## Preliminary Conclusion
+We've clearly established that 8 Newtons of thrust isn't enough to lift a fully assembled rocket.
+
+We need to take our captured mass information (coming soon), and determine the correct amount of thrust, 
+and try to source engines that meet that minimum.  This may require special online ordering, rather than
+simply going to a retail store (i.e. Meijer, Walmart, Hobby Lobby, etc.) to purchase them.
+
+We did capture radio signal and onboard telemetry from the first flight, which does contain meaningful data.
+All of this will be published and can be analyzed further.  Note for later: https://github.com/abbbi/igcviewer
+
+We need to replace a fin each for both rockets.  Given we have 2D scans of the fins in their cutout, 
+immediate options for replacement considered are:
+1. 3D print, which is readily available, and more rigid
+2. Laser cut, which is how the previous fins were constructed
+
+Going forward we will target these goals:
+* More data will be collected and published.
+* We will try to learn from the data collectedd.
+* We will continue working on telemetry decoding.
+* We will plan on having another launch event in early 2027.  Stay tuned to [this GitHub repository](../../) and our
+[main website](https://gtlug.github.io/) for the latest schedule.
