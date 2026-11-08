@@ -165,6 +165,31 @@ Visit [LILYGO®'s store][tbeam-store-url] to see other specifications.
 
 <img src="./images/t-beam-diagram.png" alt="T-Beam Supreme sketch with measurements" title="T-Beam Supreme sketch with measurements" style="width: 50%" />
 
+## Full Assembly
+<table>
+<thead>
+<tr>
+  <th><ins>Dimension</ins></th>
+  <th><ins>Value</ins></th>
+  <th><ins>Notes</ins></th>
+</tr>
+</thead>
+<tbody>
+  <tr><th>Net Weight</th>
+    <td>275g</td>
+    <td>Complete w/ telemetry and engine</td>
+  </tr>
+  <tr><th>Weight (w/o telem)</th>
+    <td>147g</td>
+    <td>Fully assembled w/ engine, w/o telemetry unit (t-beam)</td>
+  </tr>
+  <tr><th>Full Height</th>
+    <td>--</td>
+    <td>Measured from end of engine retainer clip to tip of nose-cone.</td>
+  </tr>
+</tbody>
+</table>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [rocket-store-url]: https://bellevillehobby.com/product/quest-egg-lofter-courier-model-rocket-kit/
