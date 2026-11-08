@@ -55,4 +55,5 @@ To avoid rapid unplanned disassembly like the 1st attempt, the rocket was hazard
 Because the telemetry module didn't fly, no data will be available for this flight or the 3rd.
 
 ## 3rd Attempt
-On the 3rd attempt, we used Rocket "A" again.
+On the 3rd attempt, we used Rocket "A" again.  Because the 2nd attempt seemed to have enough thrust
+but perhaps just not enough of it; we decided to go straight to C6 engines.
