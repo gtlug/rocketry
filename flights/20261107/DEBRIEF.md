@@ -13,6 +13,11 @@ We performed three launches.  In summary, we tested the following:
 2. Rocket "A", full integration except no telemetry module.  Using A8 engine.
 3. Rocket "A", full integration except no telemetry module.  Using C6-7 engine.
 
+We brought 6x of each of these engines (ordered by capacity)
+1. A8-5
+2. B6-4 (never fired)
+3. C6-7
+
 ## Pre-Flight (on location)
 This was the first time that we were able to fully integrate all of the components.
 
@@ -26,11 +31,11 @@ we were able to orient the antenna in an orthogonal direction approximately 25 f
 recognize the signal, albeit lower in strenth.
 
 ## 1st Attempt
-On the very first flight attempt, we used Rocket "E" in a fully integrated assembly, includig telemetry unit "A".
+On the very first flight attempt, we used Rocket "E" in a fully integrated assembly, including telemetry unit "A".
 
 We oriented the launch pole approximately 5° off vertical in the opposite direction of wind.
 
-We used an A8 engine.  Granted it is the lowest capcity engine, 8 Newtons is the highest thrust engine we brought.
+We used an A8-5 engine.  Granted it is the lowest capcity engine, 8 Newtons is the highest thrust engine we brought.
 
 The rocket did get off the launch pad, but only barely and landed only a few feet away from the launch pad.
 The engine finished its first phase on the ground.  The rocket was left to trigger its 
@@ -52,7 +57,7 @@ the next logical step (given F=ma) we had to change the mass of the rocket.
 Because we still wanted to test the aerodynamics of the nose-cone and kit integration, we removed
 the telemetry module.  We weren't actually capturing real-time telemetry anyway.
 
-For this test, we tested again with an A8 engine.  This time the rocket made it several feet above the 
+For this test, we tested again with an A8-5 engine.  This time the rocket made it several feet above the 
 launch pade before the first rocket phase ended.  It seemed that there was just moderate (not large)
 thrust, but perhaps just not enough of it.
 
@@ -71,8 +76,8 @@ was that perhaps it would still be just enough, and burn for long enough.
 We reoriented the launch pole vertical.
 
 This was a successful launch initially.  It traveled approximately 100 feet into the air 
-before reaching apogee.  Unfortunately, due to the long 7 second delay on the engine,
-which was probably designed for a much lighter mass rocket traveling to higher altitudes,
+before reaching apogee.  Unfortunately, due to the long 7 second delay before report phase 
+(which was probably designed for a much lighter mass rocket traveling to higher altitudes),
 our rocket didn't have enough time to fire its report phase, before nosediving (AKA lawn-darting).
 
 This report phase failure and crash resulted in another broken fin, and damaged nose-cone.
