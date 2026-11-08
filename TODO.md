@@ -21,9 +21,9 @@
 - [ ] ~~Upgrade 1st T-Beam to v1.9.3~~
 - [ ] ~~Apply stickers (maybe later)~~
 - [ ] ~~Find batteries for launch controller (batteries tested OK, "ready" light just broken)~~
-- [ ] Mod other nose-cone base w/ better seal (Deltadragon)
-- [ ] 1st telemetry module mount to nose-cone sled (Deltadragon)
-- [ ] Final nose-cone integration at launch site
+- [x] Mod other nose-cone base w/ better seal (Deltadragon)
+- [x] 1st telemetry module mount to nose-cone sled (Deltadragon)
+- [x] Final nose-cone integration at launch site
 
 # Pack List
 - [ ] Rocketry Bin
@@ -35,13 +35,13 @@
   - [x] Launch controller batteries
   - [x] WD-40
   - [x] Estes Rocket Engines (As, Bs, and Cs) w/ igniters and plugs
-- [ ] Test Article Bin
+- [x] Test Article Bin
   - [x] 2x rocket fuselages
   - [x] 2x recovery: shock cord, parachute
-  - [ ] 2x T-Beam Supremes (Deltadragon has)
-  - [ ] 2x 915MHz omni (Deltadragon has)
+  - [x] 2x T-Beam Supremes (Deltadragon has)
+  - [x] 2x 915MHz omni (Deltadragon has)
   - [ ] 2x nose-cones (Deltadragon has)
-- [ ] Radio Bin
+- [x] Radio Bin
   - [x] 4x 18650 Li-Ion batteries
   - [x] N to SMA 4' cable
   - [x] SMA extension cable
@@ -50,6 +50,6 @@
   - [x] USB A-A extension cable
   - [x] Digital scale
   - [x] 3x hand radios (walkie talkies)
-- [ ] Other
-  - [ ] Yagi-Uda with N connector
-  - [ ] Folding table
+- [x] Other
+  - [x] Yagi-Uda with N connector
+  - [x] Folding table
