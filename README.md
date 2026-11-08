@@ -36,6 +36,8 @@ Our first launch occurred:
 
 We did collect data from this launch, and will publish what data we can.  Check this GitHub repository (RIGHT HERE) as well as our our [Facebook event][facebook-event-url] for latest updates and/or media.
 
+Check out [this debrief](./flights/20261107/DEBRIEF.md) of the event for technical details.
+
 
 ## Objective
 The purpose of this project is to research, design, and build a telemetry package capable of launching on a model rocket.  Then reliably be able to recover it.
